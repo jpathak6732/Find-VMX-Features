@@ -10,7 +10,7 @@ This module will report (via the system message log) the features it discovers.
 The following procedure describes the steps followed to develop and test the kernel module:
 
 1)	Clone the kernel sources from the master linux git repository:
-git clone https://github.com/torvalds/linux.git
+> git clone https://github.com/torvalds/linux.git
 
 This clones the linux kernel sources to a directory named "linux".
 2)	Change to the cloned directory:
